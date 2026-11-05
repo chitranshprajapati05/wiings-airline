@@ -1,0 +1,6 @@
+{
+  "name": "Wiings Airline Management System",
+  "description": "Full Stack Airline Management & Flight Reservation Platform with Passenger Portal, Admin Operations, Airport Staff Terminal & AI Travel Assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
